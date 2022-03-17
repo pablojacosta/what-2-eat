@@ -1,1 +1,0 @@
-GET https://api.spoonacular.com/recipes/findByIngredients?apiKey=3e8f01e5d1934f8ba4962282bad7701f&ingredients=tomato,cheese,egg&number=1
